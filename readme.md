@@ -5,7 +5,8 @@ Neste projeto fiz um app divertido com um sistemas que te responde com qualquer 
 ![image](https://user-images.githubusercontent.com/104043012/178615556-ff41f8d9-cd3f-4fc4-9f73-0da6bd81544f.png)
 
 Brincadeiras a parte, nesse projeto criei um Math randon, para gerar qualquer uma das 19 respostas
-pré-prontas que coloquei no Array aleatóriamente, dando a impressão que o site realmente está prevendo o futuro.
+pré-prontas que coloquei no Array, e elas são geradas aleatóriamente com a função math.random,
+dando a impressão que o site realmente está prevendo o futuro.
 
 ![image](https://user-images.githubusercontent.com/104043012/178615662-738baea3-efd2-4c4a-abb0-406682ee899a.png)
 
